@@ -28,7 +28,7 @@ if(wall.x-car.x < (car.width+wall.width)/2)
 
   
   if(deformation<180 && deformation>100) {
-  car.shapeColor=color(230,230,0); 
+  car.shapeColor=color(230,230,230); 
 }
   
   if(deformation<100)
